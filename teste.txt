@@ -1,5 +1,11 @@
 Olá a todossssssssss
 
 -- Vinicius
+<<<<<<< HEAD
 
 Está será a versão 0.1.1
+||||||| 216efc1
+=======
+
+Nova funcionalidade adicionada a branch
+>>>>>>> fuca
